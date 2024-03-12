@@ -1,0 +1,2 @@
+# paradigmas
+practicos paradigmas
